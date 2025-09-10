@@ -26,13 +26,12 @@ The following main libraries were used in this project:
 - **scikit-learn** — preprocessing, vectorization, train/test split, F1-score evaluation  
 - **keras / tensorflow** — neural network modeling and training  
 - **re** — regex-based text cleaning  
-- **datetime** — handling timestamps  
-- **google.colab** — integration for running in Colab (optional)  
+
 
 ## 🔧 Installation
 Clone this repository and set up the environment:
 
 ```bash
-git clone https://github.com/your-username/deep-learning-exam.git
+git clone https://github.com/IvanAlKhayat/deep-learning-exam.git
 cd deep-learning-exam
 pip install -r requirements.txt
